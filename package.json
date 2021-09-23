@@ -1,0 +1,19 @@
+{
+  "name": "martinbullman",
+  "version": "1.0.0",
+  "description": "Martin Bullman Wesite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/I-CryptoKnight-I/MartinBullman.git"
+  },
+  "author": "Martin Bullman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/I-CryptoKnight-I/MartinBullman/issues"
+  },
+  "homepage": "https://github.com/I-CryptoKnight-I/MartinBullman#readme"
+}
