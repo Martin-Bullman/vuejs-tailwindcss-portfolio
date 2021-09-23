@@ -1,0 +1,14 @@
+{
+  "name": "martinbullman",
+  "description": "Martin Bullman WebSite",
+  "minimum-stability": "stable",
+  "license": "",
+  "authors": [
+    {
+      "name": "martinbullman",
+      "email": "martin.j.bullman@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
